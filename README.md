@@ -21,4 +21,4 @@ The program generates a random array of 50–500 elements and visually sorts the
    - Marks sorted portion in green.
    - Updates display after each iteration.
 
-## Example Output
+
